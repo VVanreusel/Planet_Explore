@@ -1,1 +1,2 @@
 this is earth
+It contains a lot of water
